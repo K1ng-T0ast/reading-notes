@@ -7,6 +7,14 @@ My name is Kyle and bler bler bler
 
 ## Growth Mindset
 
+> _"You miss 100% of the shots you don't take." - Wayne Gretzky <sub> - Michael Scott </sub>_
+
+1. First
+2. Second
+3. Third
+
+## Reminders
+
 1. First
 2. Second
 3. Third
