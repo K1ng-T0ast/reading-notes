@@ -15,4 +15,4 @@ To me, the growth mindset is a continuous battle between our worst inhibitions a
 
 1. Always be curious, always ask the questions both easy and tough. Be ready to adapt.
 2. Your mind is as free as your front door, if it's open then it invites discovery. The more minds you invite often the greater the discovery. 
-3. 
+3. Your greatest success is often at the top of a myriad of failures. Optimism breeds ambition and fuels personal trust in the process.
