@@ -13,7 +13,7 @@ My name is Kyle and bler bler bler
 2. Second
 3. Third
 
-## Reminders
+### Reminders
 
 1. First
 2. Second
