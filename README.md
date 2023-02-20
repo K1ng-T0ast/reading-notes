@@ -1,7 +1,7 @@
 # reading-notes
 **Reading journal for Code Fellows** <sup> super top secret stuff </sup>
 
-My name is Kyle and I am a career changer forward slash aspiring software developer. My goal is to one day create something that will entertain and/or enrich the lives of the people in this world.
+My name is Kyle, I am a career changer and aspiring software developer. I spent half a lifetime working a career that left me unfulfilled and thus aim to take command (line) and right the ship. My goal is to one day create something that will entertain and/or enrich the lives of the people in this world.
 
 [Link to my Github Portfolio](https://github.com/K1ng-T0ast)
 
