@@ -2,7 +2,8 @@
 **Reading journal for Code Fellows** _<sub> super serial top secret stuff </sub>_
 
 My name is Kyle and bler bler bler
-Link to my github portfolio: https://k1ng-t0ast.github.io/reading-notes/
+
+[Link to my Github Portfolio](https://k1ng-t0ast.github.io/reading-notes/)
 
 ## Growth Mindset
 
