@@ -3,7 +3,7 @@
 
 My name is Kyle and bler bler bler
 
-[Link to my Github Portfolio](https://k1ng-t0ast.github.io/reading-notes/)
+[Link to my Github Portfolio](https://github.com/K1ng-T0ast)
 
 ## Growth Mindset
 
