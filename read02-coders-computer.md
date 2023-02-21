@@ -31,7 +31,7 @@
 * Typically there's a prompt or an issuance of command followed by a prompt
 * Commands are usually followed by arguments, or sub commands that tell the system the intention. Also known as an option. Options typically start with a dash
 
-# The Shell, Bash
+## The Shell, Bash
 
 + Within a terminal is the shell which is the part of the operating system that defines how the terminal will behave and will look to run or execute commands
 + Various shells exist but the most common is called bash or bourne again shell
