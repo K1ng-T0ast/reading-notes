@@ -4,7 +4,7 @@ This will be a description of my reading journal
 
 ## Table of Contents
 
-# Code 102
+### Code 102
 
 1. [Class 1: Growth Mindset & GitHub Pages](102/class1.md)
 2. [Class 2: The Coder's Computer](102/class2.md)
@@ -15,7 +15,7 @@ This will be a description of my reading journal
 7. [Class 7: Functions](102/class7.md)
 8. [Class 8: Loops & Logic](102/class8.md)
 
-# Code 201
+### Code 201
 
 1. [Class 1:](201/class1.md)
 2. [Class 2:](201/class2.md)
