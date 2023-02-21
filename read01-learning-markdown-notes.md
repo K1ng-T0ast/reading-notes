@@ -34,3 +34,7 @@ If you want to rant about something but make it look like you're level headed, y
 Absolutely! Just drop in an angle bracket and it'll drop in a quote box, like so:
 
 > *"The new Star Wars triology is like roasting marshmellows over a toxic oil drum that just caught fire" -Me*
+
+*Wow! Thanks so much for the brief tutorial!*
+
+You're welcome, friend!
