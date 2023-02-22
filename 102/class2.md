@@ -1,4 +1,6 @@
-# **What is a Text Editor?**
+# Class 2: The Coder's Computer
+
+## **What is a Text Editor?**
 
 + A piece of software that lets you manage lines of text, most often in tandem with code creation and manipulation
 + Important features include code completion, syntax highlighting, variety of themes, and extension selection
