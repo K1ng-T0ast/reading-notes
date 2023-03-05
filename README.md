@@ -33,4 +33,12 @@ These are my notes from class segment readings on various topics, thank for for 
 14. [Class 14:](201/class14.md)
 15. [Class 15:](201/class15.md)
 
+### Code 301 - Intermediate Software Development
+
+**Coming Soon**
+
+### Code 401 - Advanced Software Development
+
+**Coming Soon**
+
 [Link To My GitHub Profile](https://github.com/K1ng-T0ast)
