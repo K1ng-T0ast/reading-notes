@@ -17,8 +17,8 @@ These are my notes from class segment readings on various topics, thank for for 
 
 ### Code 201 - Foundations of Software Development
 
-1. [Class 1:](201/class1.md)
-2. [Class 2:](201/class2.md)
+1. [Class 1: Introduction to Web Development I](201/class1.md)
+2. [Class 2: Introduction to Web Development II](201/class2.md)
 3. [Class 3:](201/class3.md)
 4. [Class 4:](201/class4.md)
 5. [Class 5:](201/class5.md)
