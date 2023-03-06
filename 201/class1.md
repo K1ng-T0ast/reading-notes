@@ -1,6 +1,30 @@
-# Introduction to HTML
+# Introduction to HTML and the Web
 
 **_Learning about HTML helps to understand the foundation for all web development and is critical should full stack development be a field for study_**
+
+## How Does the Web Work?
+
+1. Compose a short poem describing how HTTP sends data between computers
+
+> My computer is going to its favorite data candy shop
+> It asks the candy store owner for its data to drop
+> The candy store owner agrees with a loud data pop
+> The data is spilled all over my computer and now it needs a mop
+
+*side note I am terrible at poetry, note not to try as a career*
+
+2. Describe how HTML, CSS, and JS files are parsed in the browser
+   - Parses the HTML file first, then sends a request back to the server for the CSS and JS files or inline code from elements and then parses those. It then generates memory trees from the information parsed, executes, and paints a representation on screen for the user.
+
+3. How can you find images to add to a website?
+   - Google images, optional license filter, either save as to your computer or use the link address
+
+4. How do you create a string vs a number in JavaScript?
+   - To create a string you encapsulate the value in single or double quotes and a number you leave them out
+
+5. What is a variable and why are they important in JavaScript?
+   - Variables are containers that store values, it is a named reference for a value so that an unpredictable value can be accessed through a name when building out your code.
+
 
 ## Getting Started with HTML
 
