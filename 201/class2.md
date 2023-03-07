@@ -62,9 +62,9 @@
    - < and > test if one value is less than or greater than another
    - <= and >= test if one value is less than or equal to, or greater than or equal to, another
 
-4. What is the difference between the logical operator && and ||?
+4. What is the difference between the logical operator && and | |?
    - && AND; allows you to chain together two or more expressions so that all of them have to individually evaluate to true for the whole expression to return true.
-   - || OR; allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
+   - | | OR; allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
 
 
 ## Things I Want To Know More About
