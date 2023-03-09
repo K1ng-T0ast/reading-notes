@@ -19,9 +19,9 @@ These are my notes from class segment readings on various topics, thank for for 
 
 1. [Class 1: Introduction to Web Development I](201/class1.md)
 2. [Class 2: Introduction to Web Development II](201/class2.md)
-3. [Class 3:](201/class3.md)
-4. [Class 4:](201/class4.md)
-5. [Class 5:](201/class5.md)
+3. [Class 3: Lists, The Box Model, and Loops](201/class3.md)
+4. [Class 4: Links, Layouts, and Functions](201/class4.md)
+5. [Class 5: Images, Color, Text, and More Work with Functions](201/class5.md)
 6. [Class 6:](201/class6.md)
 7. [Class 7:](201/class7.md)
 8. [Class 8:](201/class8.md)
