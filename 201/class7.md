@@ -14,10 +14,10 @@
    - A table will involve more complex markup structure and can be harder to write, maintain, and debug
    - Tables are sized according to their content by default which makes styling a difficult task
 
-2. List and describe 3 different semantic HTML elements used in an HTML <table>.
-   - <td> which is table data, the smallest container inside a table cell
-   - <tr> which is table row and stops the table from growing so you can create a new row
-   - <th> which are table headers that go at the start of a row or column and provide easy to see definitions for the type of data in that row
+2. List and describe 3 different semantic HTML elements used in an HTML table.
+   - td which is table data, the smallest container inside a table cell
+   - tr which is table row and stops the table from growing so you can create a new row
+   - th which are table headers that go at the start of a row or column and provide easy to see definitions for the type of data in that row
 
 ## Introducing Constructors
 
