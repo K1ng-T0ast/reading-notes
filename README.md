@@ -27,11 +27,11 @@ These are my notes from class segment readings on various topics, thank for for 
 8. [Class 8: Layout with CSS](201/class8.md)
 9. [Class 9: Forms and Events](201/class9.md)
 10. [Class 10: Debugging and Error Handling](201/class10.md)
-11. [Class 11:](201/class11.md)
-12. [Class 12:](201/class12.md)
-13. [Class 13:](201/class13.md)
-14. [Class 14:](201/class14.md)
-15. [Class 15:](201/class15.md)
+11. [Class 11 Audio and Video in HTML; Domain Modeling Revisted:](201/class11.md)
+12. [Class 12: Canvas and ChartJS](201/class12.md)
+13. [Class 13 Introduction to Persistance with Local Storage:](201/class13.md)
+14. [Class 14: Documentation, Project Selection, & Team Workflow](201/class14.md)
+15. [Class 15: Course Recap & 301 Preview](201/class15.md)
 
 ### Code 301 - Intermediate Software Development
 
