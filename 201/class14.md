@@ -84,6 +84,20 @@ This could be used in an online game where a character has to hit a box to open 
 
     - Part of my long term goal is to be proficient in many programming languages, even if JavaScript and full stack development is not my end game. This will help to keep me updated and informed in the conversation of programming as it evolves. It will also help to move me through code 301 as I'm sure the projects will rely on utilizing many of these concepts.
 
+## Psychological Safety
+
+1. What are three key factors that contribute to psychologically safe teams?
+
+    - Interpersonal risk taking, comfortability of idea expression, open forum for discussion and constructive feedback.
+
+2. Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.
+
+    - My last job was basically one giant exercise in psych safety. It required cross collaboration on a daily basis with different departments and teams with real deadlines and never ending roadblocks, ideation, creative problem solving. I was in sales enablement support and my job was to create solutions for busines and enterprise customers that required support and collaboration from legal, engineering, project management, marketing, customer support.
+
+3. What impact do teams that operate with a high degree of psychological safety have on their company and the team members?
+
+    - Increased productivity, improved creativity, higher job satisfaction, better decision making, reduced stress and burnout.
+
 ## Things I want to know more about
 
 **_What is the most effective design plan for utilizing CSS transitions and animations in different applications such as web or app? Is there a certain limit to how many we wish to use? What is the industry standard for using these to accomplish our goal and maintain a clean and consistent structure in the modern web?_**
