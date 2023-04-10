@@ -35,7 +35,8 @@ These are my notes from class segment readings on various topics, thank for for 
 
 ### Code 301 - Intermediate Software Development
 
-**Coming Soon**
+1. [Class 1: Introduction to React and Components](301/class1.md)
+2. 
 
 ### Code 401 - Advanced Software Development
 
