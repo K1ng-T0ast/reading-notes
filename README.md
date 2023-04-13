@@ -38,6 +38,7 @@ These are my notes from class segment readings on various topics, thank for for 
 1. [Class 1: Introduction to React and Components](301/class1.md)
 2. [Class 2: States and Props](301/class2.md)
 3. [Class 3: Passing Functions as Props](301/class3.md)
+4. [Class 4: React and Forms](301/class4.md)
 
 ### Code 401 - Advanced Software Development
 
