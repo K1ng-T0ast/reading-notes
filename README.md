@@ -40,6 +40,7 @@ These are my notes from class segment readings on various topics, thank for for 
 3. [Class 3: Passing Functions as Props](301/class3.md)
 4. [Class 4: React and Forms](301/class4.md)
 5. [Class 5: Putting it All Together](301/class5.md)
+5. [Class 6: REST and APIs](301/class6.md)
 
 ### Code 401 - Advanced Software Development
 
