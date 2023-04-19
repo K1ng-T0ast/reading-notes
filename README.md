@@ -42,6 +42,7 @@ These are my notes from class segment readings on various topics, thank for for 
 5. [Class 5: Putting it All Together](301/class5.md)
 6. [Class 6: REST and APIs](301/class6.md)
 7. [Class 7: NODE.JS](301/class7.md)
+8. [Class 8: APIs](301/class8.md)
 
 ### Code 401 - Advanced Software Development
 
