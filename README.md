@@ -43,6 +43,7 @@ These are my notes from class segment readings on various topics, thank for for 
 6. [Class 6: REST and APIs](301/class6.md)
 7. [Class 7: NODE.JS](301/class7.md)
 8. [Class 8: APIs](301/class8.md)
+9. [Class 9: Functional Programming](301/class9.md)
 
 ### Code 401 - Advanced Software Development
 
