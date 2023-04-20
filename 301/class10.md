@@ -16,7 +16,7 @@
 
 4. Draw an example of a call stack and the functions that would need to be invoked to generate that call stack
 
-    <img src="/callstack.png" alt="example of call stack" title="Call Stack Example">
+    <img src="./callstack.png" alt="example of call stack" title="Call Stack Example">
 
     (source: https://www.youtube.com/watch?v=2ZH_1d8TYVg)
 
