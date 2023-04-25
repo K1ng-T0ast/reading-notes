@@ -45,6 +45,8 @@ These are my notes from class segment readings on various topics, thank for for 
 8. [Class 8: APIs](301/class8.md)
 9. [Class 9: Functional Programming](301/class9.md)
 10. [Class 10: In Memory Storage and Error Messages](301/class10.md)
+11. [Class 11: MongoDB and Sql](301/class11.md)
+12. [Class 12: CRUD](301/class12.md)
 
 ### Code 401 - Advanced Software Development
 
